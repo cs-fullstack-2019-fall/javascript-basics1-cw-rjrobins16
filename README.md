@@ -1,5 +1,9 @@
 # JavaScript-Basics1-CW
 
+Good work, 3/4 correct with partial credit on probelm 4
+See index.js for comments
+SCORE : 4
+
 Problem 1
 Print "Hello World"
 
